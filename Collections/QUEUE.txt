@@ -1,0 +1,16 @@
+Queue<String> linkedQueue = new LinkedList<>();
+Queue<String> priorityQueue = new PriorityQueue<>();
+Deque<String> arrayDeque = new ArrayDeque<>();
+
+1) LinkedList
+2) PriorityQueie
+3) ArrayDeque
+
+Методы:
+
+.add(E): boolean - добавить эллемент E в коллекцию
+.remove(Object): bollean - удалить эллемент из ГОЛОВЫ коллекции
+
+.poll(): E - удаляет еллемент с головы
+.element(): E - показывает но не удаляет еллемент с головы очереди
+.peek(): E - оказывает но не удаляет еллемент с головы очереди

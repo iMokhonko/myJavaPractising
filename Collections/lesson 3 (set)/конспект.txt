@@ -1,0 +1,17 @@
+Set<String> hashSet = new HashSet<>();
+Set<String> treeSet = new TreeSet<>();
+Set<String> linkedHashSet = new LinkedHashSet<>();
+
+HashSet
+хранит эллементы в рандомном порядке
+
+LinkedHashSet
+хранит эллементы в порядке в каком они были добавлены
+
+TreeSet
+отсортированная коллекция
+Для добавления еллементов созданных на основе своих классов они должны иметь метод для сравниваня
+и имплементить интерфейс Comparable
+
+
+equels и HashCode нужны в основном при работе с хеш таблицами

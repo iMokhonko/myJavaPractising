@@ -1,0 +1,30 @@
+Set<String> hashSet = new HashSet<>();
+Set<String> treeSet = new TreeSet<>();
+Set<String> linkedHashSet = new LinkedHashSet<>();
+
+1) HashSet ----------------
+хранит эллементы в рандомном порядке
+2) LinkedHashSet ----------
+хранит эллементы в порядке в каком они были добавлены
+3) TreeSet ----------------
+отсортированная коллекция
+Для добавления еллементов созданных на основе своих классов они должны иметь метод для сравниваня
+и имплементить интерфейс Comparable
+
+equels и HashCode нужны в основном при работе с хеш таблицами
+
+Методы:
+
+.add(E): boolean - добавить эллемент E в коллекцию
+.remove(Object): bollean - удалить эллемент из коллекции
+
+
+.size(): int - размер коллекции
+.isEmpty(): boolean - пустая ли коллекция
+.contains(Object): boolean - проверка существует ли Object  внутри коллекции
+.toArray(): Object[] - превращает коллекцию в массив
+.containsAll(Collection<?>): boolean - проверка содержит ли данная коллекция внутри себя другую коллекцию
+.addAll(Collection<? extends E>): boolean - добавляет в сет все еллементы из коллекции
+.removeAll(Collection<?>): boolean - удаляет из сета все еллементы которые есть в передеанной аргументом коллекции
+.clear(): boolean - удаляет все эллементы из коллекции
+.equals(Object): boolean - сравнивает коллекцию с обьектом

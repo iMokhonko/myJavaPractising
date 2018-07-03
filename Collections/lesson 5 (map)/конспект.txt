@@ -1,0 +1,9 @@
+Map<String, String> hashMap = new HashMap<>();
+
+Map<String, String> linkedHashMap = new LinkedHashMap<>();
+
+Map<String, String> treeMap = new TreeMap<>();
+
+Map<String, String> hasTable = new HashTable<>();
+
+Map<String, String> syncHashMap = Collections.synchronizedMap(new HashedMap());

@@ -1,0 +1,12 @@
+Простая очередь
+Queue<String> linkedQueue = new LinkedList<>();
+
+Queue<String> priorityQueue = new PriorityQueie<>();
+сортирует эллементы но при вызове функции .remove();
+
+Двунаправленная очередь
+Deque<String> linkedDeque = new LinkedList<>();
+
+
+Deque<String> arrayDeque = new ArrayDeque<>();
+состоит из обычного массива

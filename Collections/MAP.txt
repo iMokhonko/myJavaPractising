@@ -1,0 +1,36 @@
+Map<String, String> hashMap = new HashMap<>();
+Map<String, String> linkedHashMap = new LinkedHashMap<>();
+Map<String, String> treeMap = new TreeMap<>();
+
+Map<String, String> hasTable = new HashTable<>();
+Map<String, String> syncHashMap = Collections.synchronizedMap(new HashedMap());
+
+1) HashMap
+не дает никаких гарантий относительно порядка итераций. 
+Он может (и будет) даже полностью меняться при добавлении новых элементов.
+2) LinkedHashMap
+будет выполнять итерацию в том порядке, в котором записи были помещены в карту
+3) TreeMap
+будет выполнять итерацию в соответствии с "естественным порядком" ключей в соответствии с их методом compareTo() (или внешним Comparator). 
+Кроме того, он реализует интерфейс SortedMap, который содержит методы, которые зависят от этого порядка сортировки.
+
+Можно скопировать мапу через конструктор при создании другой
+если при добавлении в карту такой ключ уже есть то значение заменивается
+
+Методы
+
+.put(K, V): V - добавляет эллемент по ключу в мапу
+.replace(K, V, V) : boolean - заменяет значение по ключу и значению??
+.replace(K, V): V - заменяет значение по ключу и возвращает значение
+.get(Object key): V - возвращает значение по ключу
+.remove(Object key): V - удаляет эллемент из мапы по ключу и возвращает удаленное значение
+.clear(): void - удаляет все ключи-значения из мапы
+
+.size(): int
+.isEmpty(): boolean
+.containsKey(Object): boolean - возвращает есть ли опеределенный ключ в мапе
+.containsValue(Object): boolean - возвращает есть ли опеределенное значение в мапе
+.putAll(Map<? extends K, ? extends V>): void - добавляет в мапу другую мапу, но при условии что типы наследуются от текущих
+.keySet(): Set<K> - возвращает коллекцию SET ключей
+.values(): Collection<V> - возвращает коллекцию значений 
+.entrySet(): Set<Entry<K, V>> - возвращает сет из ключ-значение
