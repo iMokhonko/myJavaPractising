@@ -1,8 +1,0 @@
-Amazon EC2 (Elasctic Cloud Computing) - поднятие серверов, Windows, Linux...
-	- Load Balancer
-
-Amazon S3 (Simple Storage Service) - хранение файлов + статичные веб сайты
-	- S3 Standart
-	- S3 Infrequent Access
-	- Reduced Redundancy Storage
-Amazon Glacier - архивирование файлов, доступ долгий

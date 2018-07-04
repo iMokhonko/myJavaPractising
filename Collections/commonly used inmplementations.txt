@@ -1,0 +1,5 @@
+For the Set interface, HashSet is the most commonly used implementation.
+For the List interface, ArrayList is the most commonly used implementation.
+For the Map interface, HashMap is the most commonly used implementation.
+For the Queue interface, LinkedList is the most commonly used implementation.
+For the Deque interface, ArrayDeque is the most commonly used implementation.
