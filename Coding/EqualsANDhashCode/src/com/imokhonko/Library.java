@@ -1,5 +1,6 @@
 package com.imokhonko;
 
+import javax.swing.*;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -49,15 +50,35 @@ public class Library {
 
     // add a ticket to student (it allows him to borrow books)
     public boolean addTicket(Ticket ticket) {
+        history.add (new History (ticket, ticket.getBooks (), HistoryTypes.GIVE));
         tickets.add (ticket);
-        history.add (new History (ticket, HistoryTypes.GIVE));
         return true;
     }
 
     // removes ticket
     public boolean returnTicket(Ticket ticket) {
+        history.add (new History (ticket, ticket.getBooks (), HistoryTypes.RETURN));
         tickets.remove (ticket);
-        history.add (new History (ticket, HistoryTypes.RETURN));
+        return true;
+    }
+
+    public boolean returnTicket(Ticket ticket, Book book) {
+        if(ticket.removeBooks (book) == 0) {
+            history.add (new History (ticket, book, HistoryTypes.RETURN));
+            tickets.remove (ticket);
+            return true;
+        }
+        history.add (new History (ticket, book, HistoryTypes.PARTIAL_RETURN));
+        return true;
+    }
+
+    public boolean returnTicket(Ticket ticket, List<Book> books) {
+        if(ticket.removeBooks (books) == 0) {
+            history.add (new History (ticket, books, HistoryTypes.RETURN));
+            tickets.remove (ticket);
+            return true;
+        }
+        history.add (new History (ticket, books, HistoryTypes.PARTIAL_RETURN));
         return true;
     }
 

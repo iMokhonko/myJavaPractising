@@ -19,6 +19,16 @@ public class Ticket {
         this.student = student;
     }
 
+    public int removeBooks(Book book) {
+        //books.remove (book);
+        return books.size();
+    }
+
+    public int removeBooks(List<Book> book) {
+        //books.removeAll (book);
+        return books.size();
+    }
+
     public int getId() {
         return id;
     }

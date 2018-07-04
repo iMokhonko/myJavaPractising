@@ -2,6 +2,7 @@ package com.imokhonko.consoleViews;
 
 import com.imokhonko.Book;
 import com.imokhonko.History;
+import com.imokhonko.HistoryTypes;
 import com.imokhonko.Ticket;
 
 import java.util.List;
@@ -23,15 +24,38 @@ public class ConsoleView {
 
     public void getConsoleHistory(List<History> historyList) {
         System.out.println ("------------HISTORY------------");
+
         for (History history : historyList) {
             System.out.println ("Ticket id: " + history.getTicket ().getId ());
             System.out.println ("Student: " + history.getTicket ().getStudent ().getName ());
             System.out.println ("Type: " + history.getType ());
-            System.out.println ("Books:");
-            for (Book historyBooks : history.getTicket ().getBooks ()) {
-                System.out.println (historyBooks);
+
+            switch (history.getType ()) {
+                case RETURN: {
+                    System.out.println ("Books:");
+                    givenBooks(history.getBooks ());
+                    break;
+                }
+                case PARTIAL_RETURN: {
+                    System.out.println ("Returned books:");
+                    givenBooks(history.getBooks ());
+                    break;
+                }
+                case GIVE: {
+                    System.out.println ("Gived books:");
+                    givenBooks(history.getBooks ());
+                    break;
+                }
             }
+
+
             System.out.println ("________________________");
+        }
+    }
+
+    private void givenBooks(List<Book> books) {
+        for (Book historyBooks : books) {
+            System.out.println (historyBooks);
         }
     }
 
