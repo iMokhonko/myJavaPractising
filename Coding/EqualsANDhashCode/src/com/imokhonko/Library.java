@@ -2,14 +2,13 @@ package com.imokhonko;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Map;
-import java.util.Set;
 
 public class Library {
 
     private String name;
     private List<Book> books = new ArrayList<> ();
     private List<Ticket> tickets = new ArrayList<>();
+    private List<History> history = new ArrayList<>();
 
     public Library(String name) {
         this.name = name;
@@ -19,6 +18,7 @@ public class Library {
         return name;
     }
 
+    // adding books to library
     public boolean addBookToLibrary(Book book) {
         books.add (book);
         return true;
@@ -29,10 +29,12 @@ public class Library {
         return true;
     }
 
+    // returns the books list
     public List<Book> getBooks() {
         return books;
     }
 
+    // returns specific book by parameter
     public Book getBook(Book book) {
         return books.indexOf(book) != -1 ? books.get(books.indexOf(book)) : null;
     }
@@ -45,31 +47,30 @@ public class Library {
         return null;
     }
 
-
+    // add a ticket to student (it allows him to borrow books)
     public boolean addTicket(Ticket ticket) {
         tickets.add (ticket);
+        history.add (new History (ticket, HistoryTypes.GIVE));
         return true;
     }
 
-    public boolean removeTicket(Ticket ticket) {
+    // removes ticket
+    public boolean returnTicket(Ticket ticket) {
         tickets.remove (ticket);
+        history.add (new History (ticket, HistoryTypes.RETURN));
         return true;
     }
 
+
+    // returns history
+    public List<History> getHistory() {
+        return history;
+    }
+
+    // show list of tickets
     public List<Ticket> getTickets() {
         return tickets;
     }
 
-    public void getConsoleBooks() {
-        for (Ticket ticket : tickets) {
-            System.out.println ("----------------------------------------");
-            System.out.println ("Ticket id: " + ticket.getId());
-            System.out.println ("Student: " + ticket.getStudent().getName());
-            System.out.println ("Books:");
-            for (Book book : ticket.getBooks ()) {
-                System.out.println (book.getTitle () + " (" + book.getAuthor () + ")");
-            }
-        }
-    }
 
 }

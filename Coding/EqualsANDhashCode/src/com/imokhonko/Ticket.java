@@ -1,5 +1,6 @@
 package com.imokhonko;
 
+import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Set;
@@ -9,6 +10,8 @@ public class Ticket {
     private int id;
     private List<Book> books;
     private Student student;
+//    private LocalDate issuedDate;
+//    private LocalDate returnDate;
 
     public Ticket(int id, List<Book> books, Student student) {
         this.id = id;
