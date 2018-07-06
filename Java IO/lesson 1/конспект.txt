@@ -1,0 +1,17 @@
+File file = new File (path); // path - путь к файлу
+
+класс для работы с файлами
+
+.getName(): String - name of file
+.length(): long - file length in bytes
+.getPath(): String - file path
+.getAbsolutePath(): String
+.getParent(): String - parent folder (in what folder file is located)
+.exists(): boolean - is file exist
+.canRead(): boolean
+.canWrite(): boolean
+.renameTo(): boolean - rename file we need to create new object (File file = new File (!*filename*!);) to rename it
+
+.mkdir(): boolean - создает директорию по path
+.isDirectory(): boolean - is this path is directory
+.list(): String[] - return an array of files in this directory

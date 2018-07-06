@@ -48,7 +48,6 @@ public class ConsoleView {
                 }
             }
 
-
             System.out.println ("________________________");
         }
     }
