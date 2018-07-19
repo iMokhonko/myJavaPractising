@@ -1,0 +1,10 @@
+Сериализация и десериализация это запись обьекта в файл
+
+если обьект имеет ссылку на другой обьект то тот обьект должен реализововать интерфейс Serializable
+
+ObjectOutputStream writeObject = new ObjectOutputStream (new FileOutputStream(path));
+.writeObject(Object): void - записывает обьект в файл
+___________________________________________
+
+ObjectInputStream readObject = new ObjectInputStream (new FileInputStream (path));
+.readObject() : object - читает обьект из файла

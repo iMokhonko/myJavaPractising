@@ -1,0 +1,2 @@
+this file was created to show how I can use FileOutputStream
+kek
