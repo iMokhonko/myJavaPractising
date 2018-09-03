@@ -1,0 +1,12 @@
+StringBuilder - быстрый но не потокобезопасный
+StringBuffer - чуть-чуть медленнее* чем StringBuilder но потокобезопасный
+
+.append(String): StringBuilder/StringBuffer - дбавляет в конце строки текст и возвращает самого себя
+.append(char[]): StringBuilder/StringBuffer
+.append(char, int, int): StringBuilder/StringBuffer
+.append(StringBuffer): StringBuilder/StringBuffer
+
+.delete(int start, int end): StringBuilder/StringBuffer
+
+.insert(int, String): StringBuilder/StringBuffer
+.insert(int, char[]): StringBuilder/StringBuffer

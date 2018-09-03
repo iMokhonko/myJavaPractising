@@ -1,0 +1,18 @@
+
+
+.asList(a[]): List<T> - превращает массив в коллекцию
+
+.binarySearch(int[], int): int - возвращает индекс найденого эллемента в масиве
+.binarySearch(byte[] a, int fromIndex, int toIndex, byte key)
+оно под все типы массивов подходит))
+
+.copyOf(int[], int): int[] - копирует массив в другой массив начиная с нуля по newLength
+
+.copyOfRange(int[], int, int): int[] - копирует массив начиная с и заканчивая каким-то эллементом
+
+.equals(int[], int[]): boolean
+
+.fill(int[], int, int, int): int[] - заполняет массив начиная с и заканчия эллементом и устанавливает значение
+
+.sort(int[]): int[]
+.sort(int[], int fromIndex, int toIndex): int[]

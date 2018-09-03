@@ -1,0 +1,10 @@
+Date date = new Date();
+
+.after(Date): boolean
+.before(Date): boolean
+
+
+Форматирование даты 
+
+SimpleDateFormat dateFormat = new SimpleDateFormat("...");
+dateFormat.format(date);

@@ -1,0 +1,18 @@
+2018-08-14 16:56:57.982 EEST TRACE     UsersDAO:29 - connection to db successfull
+2018-08-14 16:56:58.049 EEST TRACE     UsersDAO:34 - select data from db is successfull
+2018-08-14 16:56:58.052 EEST TRACE     UsersDAO:94 - resultSet closed successfully
+2018-08-14 16:56:58.053 EEST TRACE     UsersDAO:81 - statement closed successfully
+2018-08-14 16:56:58.055 EEST TRACE     UsersDAO:68 - connection closed successfully
+2018-08-14 16:59:21.640 EEST TRACE     UsersDAO:29 - connection to db successfull
+2018-08-14 16:59:21.799 EEST  WARN     UsersDAO:110 - rollback is not successfull
+2018-08-14 16:59:21.800 EEST TRACE     UsersDAO:113 - connection for rollback is null
+2018-08-14 16:59:21.800 EEST  WARN     UsersDAO:100 - resultSet is null
+2018-08-14 16:59:21.801 EEST TRACE     UsersDAO:81 - statement closed successfully
+2018-08-14 16:59:21.806 EEST TRACE     UsersDAO:68 - connection closed successfully
+2018-08-14 17:00:37.521 EEST TRACE     UsersDAO:29 - connection to db successfull
+2018-08-14 17:00:37.575 EEST  WARN     UsersDAO:51 - sql exception during executiong query to database
+2018-08-14 17:00:37.576 EEST  WARN     UsersDAO:111 - rollback is not successfull
+2018-08-14 17:00:37.576 EEST TRACE     UsersDAO:114 - connection for rollback is null
+2018-08-14 17:00:37.576 EEST  WARN     UsersDAO:101 - resultSet is null
+2018-08-14 17:00:37.580 EEST TRACE     UsersDAO:82 - statement closed successfully
+2018-08-14 17:00:37.582 EEST TRACE     UsersDAO:69 - connection closed successfully

@@ -1,0 +1,21 @@
+.charAt(int): char - принимает индекс и возвращает символ
+.codePointAt(int): int - возвращает юникод символа по индексу
+.compareTo(String): int - сравнивает строки c учетом регистра 0 если строки совпадают
+.compareToIgnoreCase(String: int)  - без регистра
+.equals(Object): boolean - метод работает нормально
+.equalsIgonreCase(Object): boolean
+.indexOf(): int
+.lastIndexOf(): int
+.isEmpty(): boolean
+.length(): int
+.split(String): String[] - разделяет строку по разделителю
+.substring(int, int): String - вырезает подстроку начинай с beginIndex (влючая) до endIndex (не включая)
+.toCharArray(): char[]
+.trim(): String - обрезает пробелы в начале и в конце строки
+.valueOf() - преобразует в символ или строку
+.startsWith(String, int): boolean
+.endsWith(String): boolean
+.replace(char, char): String, 
+.replaceFirst(String, String)
+.replaceAll(String, String)
+.contains(String): boolean

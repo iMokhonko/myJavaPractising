@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<schedule><scheduleItem><group>3-5</group><day>1</day><lessons><lesson><title>OOP</title><type>lection</type><count>5</count><teacher>Gribkov</teacher></lesson><lesson><title>Agile</title><type>lection</type><count>6</count><teacher>Slivov</teacher></lesson></lessons></scheduleItem><scheduleItem><group>3-6</group><day>1</day><lessons><lesson><title>English</title><type>practical</type><count>6</count><teacher>Smith</teacher></lesson><lesson><title>OOP</title><type>practical</type><count>7</count><teacher>Gribkov</teacher></lesson></lessons></scheduleItem></schedule>

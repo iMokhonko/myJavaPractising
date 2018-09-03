@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<company>
+
+    <name>ROGA AND KOPUTA</name>
+    <location>Kiev</location>
+
+    <employees department="IT">
+        <employee id="1">
+            <name>Ivan Mokhonko</name>
+            <salary currency="USD">5000</salary>
+            <position>Team Lead</position>
+            <skills>
+                <skill>Java</skill>
+                <skill>Spring</skill>
+                <skill>Hibernate</skill>
+            </skills>
+        </employee>
+        <employee id="2">
+            <name>Violetta Zaritskaya</name>
+            <salary currency="GRN">2500</salary>
+            <position>middle</position>
+            <skills>
+                <skill>Java</skill>
+            </skills>
+        </employee>
+    </employees>
+    <employees department="Marketing">
+        <employee id="3">
+            <name>Sanya Prokopenko</name>
+            <salary currency="USD">1500</salary>
+            <position>Marketer</position>
+            <skills>
+                <skill>Google adSense</skill>
+            </skills>
+        </employee>
+    </employees>
+</company>

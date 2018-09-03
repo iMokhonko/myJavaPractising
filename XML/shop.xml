@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<shop>
+
+    <name>Staff</name>
+    <location>Kiev</location>
+    <website>staff.com.ua</website>
+
+    <products>
+
+        <product>
+            <name>baseball cap</name>
+            <category>caps</category>
+            <description>cool cap</description>
+            <price currency="USD">59</price>
+        </product>
+        <product>
+            <name>backpack</name>
+            <category>backpacks</category>
+            <description>for notebooks</description>
+            <price currency="EUR">100</price>
+        </product>
+        <product>
+            <name>Staff shoes black</name>
+            <category>Shoes</category>
+            <description>perfect shoes</description>
+            <price currency="USD">250</price>
+        </product>
+
+    </products>
+
+</shop>

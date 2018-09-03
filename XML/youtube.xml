@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<playlists>
+
+    <playlist id="1">
+
+        <name>Hollywood Undead Songs</name>
+
+        <videos>
+            <video id="1">
+                <title>Cashed out</title>
+                <duration>205</duration>
+                <singers>
+                    <singer>Jay dog</singer>
+                    <singer>Funny Man</singer>
+                    <singer>Charlie Scene</singer>
+                </singers>
+            </video>
+            <video id="2">
+                <title>War child</title>
+                <duration>223</duration>
+                <singers>
+                    <singer>Jay dog</singer>
+                    <singer>Johny 3 Tears</singer>
+                    <singer>Funny Man</singer>
+                    <singer>Charlie Scene</singer>
+                </singers>
+            </video>
+            <video id="3">
+                <title>Bad Moon</title>
+                <duration>196</duration>
+                <singers>
+                    <singer>Danny</singer>
+                    <singer>Funny Man</singer>
+                    <singer>Charlie Scene</singer>
+                </singers>
+            </video>
+        </videos>
+
+    </playlist>
+
+    <playlist id="2">
+
+        <name>Eminem songs</name>
+
+        <videos>
+            <video id="4">
+                <title>Rap god</title>
+                <duration>305</duration>
+                <singers>
+                    <singer>Eminem</singer>
+                </singers>
+            </video>
+            <video id="5">
+                <title>Venom</title>
+                <duration>400</duration>
+                <singers>
+                    <singer>Eminem</singer>
+                </singers>
+            </video>
+        </videos>
+
+    </playlist>
+
+</playlists>
