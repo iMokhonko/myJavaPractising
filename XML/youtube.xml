@@ -31,7 +31,6 @@
                 <duration>196</duration>
                 <singers>
                     <singer>Danny</singer>
-                    <singer>Funny Man</singer>
                     <singer>Charlie Scene</singer>
                 </singers>
             </video>
@@ -46,9 +45,11 @@
         <videos>
             <video id="4">
                 <title>Rap god</title>
-                <duration>305</duration>
+                <duration>205</duration>
                 <singers>
                     <singer>Eminem</singer>
+                    <singer>Dr. Dre</singer>
+                    <singer>KEK</singer>
                 </singers>
             </video>
             <video id="5">
@@ -56,6 +57,7 @@
                 <duration>400</duration>
                 <singers>
                     <singer>Eminem</singer>
+                    <singer>Dr. Dre</singer>
                 </singers>
             </video>
         </videos>

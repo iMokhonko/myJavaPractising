@@ -1,0 +1,48 @@
+<log4j:event logger="com.imokhonko.Main" timestamp="1541081092810" level="FATAL" thread="main">
+<log4j:message><![CDATA[fatal message]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.imokhonko.Main" timestamp="1541081092813" level="ERROR" thread="main">
+<log4j:message><![CDATA[error message]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.imokhonko.Main" timestamp="1541081092814" level="WARN" thread="main">
+<log4j:message><![CDATA[warn message]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.imokhonko.Main" timestamp="1541081092814" level="DEBUG" thread="main">
+<log4j:message><![CDATA[debug message]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.imokhonko.Main" timestamp="1541081092814" level="INFO" thread="main">
+<log4j:message><![CDATA[info message]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.imokhonko.Main" timestamp="1541081092815" level="TRACE" thread="main">
+<log4j:message><![CDATA[trace message]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.imokhonko.Main" timestamp="1541081156216" level="FATAL" thread="main">
+<log4j:message><![CDATA[fatal message]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.imokhonko.Main" timestamp="1541081156231" level="ERROR" thread="main">
+<log4j:message><![CDATA[error message]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.imokhonko.Main" timestamp="1541081156232" level="WARN" thread="main">
+<log4j:message><![CDATA[warn message]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.imokhonko.Main" timestamp="1541081156232" level="DEBUG" thread="main">
+<log4j:message><![CDATA[debug message]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.imokhonko.Main" timestamp="1541081156232" level="INFO" thread="main">
+<log4j:message><![CDATA[info message]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.imokhonko.Main" timestamp="1541081156263" level="TRACE" thread="main">
+<log4j:message><![CDATA[trace message]]></log4j:message>
+</log4j:event>
+

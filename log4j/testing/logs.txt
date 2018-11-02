@@ -1,0 +1,12 @@
+FATAL com.imokhonko.Main: [01 ноя 2018 16:04:52,810] fatal message
+ERROR com.imokhonko.Main: [01 ноя 2018 16:04:52,813] error message
+WARN com.imokhonko.Main: [01 ноя 2018 16:04:52,814] warn message
+DEBUG com.imokhonko.Main: [01 ноя 2018 16:04:52,814] debug message
+INFO com.imokhonko.Main: [01 ноя 2018 16:04:52,814] info message
+TRACE com.imokhonko.Main: [01 ноя 2018 16:04:52,815] trace message
+FATAL com.imokhonko.Main: [01 ноя 2018 16:05:56,216] fatal message
+ERROR com.imokhonko.Main: [01 ноя 2018 16:05:56,231] error message
+WARN com.imokhonko.Main: [01 ноя 2018 16:05:56,232] warn message
+DEBUG com.imokhonko.Main: [01 ноя 2018 16:05:56,232] debug message
+INFO com.imokhonko.Main: [01 ноя 2018 16:05:56,232] info message
+TRACE com.imokhonko.Main: [01 ноя 2018 16:05:56,263] trace message

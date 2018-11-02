@@ -1,0 +1,776 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="46f56311-a96c-4ae8-89ae-05e0a6cd5edb" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CheckStyle-IDEA-workspace">
+    <option name="configuration">
+      <map>
+        <entry key="last-active-plugin-version" value="5.22.1" />
+      </map>
+    </option>
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/patterns$All_in_lessong_2.ic" NAME="All in lessong 2 Coverage Results" MODIFIED="1541152595050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/patterns$com_imokhonko_Decorator_popcorn_in_lessong_2.ic" NAME="com.imokhonko.Decorator.popcorn in lessong 2 Coverage Results" MODIFIED="1541163400883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.imokhonko.Decorator.popcorn.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/patterns$MyListTest.ic" NAME="MyListTest Coverage Results" MODIFIED="1541153928628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.imokhonko.Iterator.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/imokhonko/Decorator/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PopcornСondiment.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/imokhonko/Decorator/popcorn/popcornCondiments/PopcornСondiment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="172">
+              <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#545#546#0" expanded="true" />
+                <element signature="e#577#578#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>add</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/imokhonko/Builder/Main.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imokhonko/Iterator/MyList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imokhonko/Iterator/Main.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/imokhonko/Iterator/MyListTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imokhonko/Decorator/Beverage/BeverageDecorator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imokhonko/Decorator/Beverage/Beverage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imokhonko/Decorator/Beverage/Popcorn.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imokhonko/Decorator/Beverage/BeverageDecorators/BeverageDecorator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imokhonko/Decorator/Beverage/BeverageDecorators/PopcornDecorator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imokhonko/Decorator/popcorn/BeverageDecorators/PopcornDecorator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imokhonko/Decorator/popcorn/popcornDecorators/PopcornDecorator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imokhonko/Decorator/popcorn/PopCornImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imokhonko/Decorator/popcorn/PopcornItem.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imokhonko/Decorator/popcorn/popcornDecorators/Salt.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imokhonko/Decorator/popcorn/popcornDecorators/Chocolate.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imokhonko/Decorator/popcorn/popcornDecorators/Cheese.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imokhonko/Decorator/popcorn/PopCornType.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imokhonko/Decorator/popcorn/PopCornSize.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imokhonko/Decorator/popcorn/ExtraordinaryPopcor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imokhonko/Decorator/popcorn/Popcorn.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imokhonko/Decorator/popcorn/Size.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imokhonko/Decorator/popcorn/popcornCondiments/Cheese.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imokhonko/Decorator/popcorn/popcornCondiments/Chocolate.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imokhonko/Decorator/popcorn/popcornCondiments/Salt.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imokhonko/Decorator/popcorn/ClassicPopcorn.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imokhonko/Decorator/popcorn/ExtraordinaryPopcorn.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/imokhonko/Decorator/popcorn/PopcornTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imokhonko/Decorator/popcorn/popcornCondiments/Items.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imokhonko/Decorator/popcorn/popcornCondiments/PopcornСondiment.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imokhonko/Decorator/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="patterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lessong 2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="patterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lessong 2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="patterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lessong 2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="patterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lessong 2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="patterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lessong 2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="imokhonko" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="patterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lessong 2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="imokhonko" type="462c0819:PsiDirectoryNode" />
+              <item name="Decorator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="patterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lessong 2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="patterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lessong 2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="patterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lessong 2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="imokhonko" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.imokhonko.Decorator.popcorn" />
+      <recent name="com.imokhonko.Iterator" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.com.imokhonko.Decorator.popcorn in lessong 2">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.imokhonko.Decorator.Main" />
+      <module name="lessong 2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imokhonko.Decorator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.imokhonko.Iterator.Main" />
+      <module name="lessong 2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imokhonko.Iterator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="MyListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lessong 2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imokhonko.Iterator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.imokhonko.Iterator" />
+      <option name="MAIN_CLASS_NAME" value="com.imokhonko.Iterator.MyListTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="PopcornTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lessong 2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imokhonko.Decorator.popcorn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.imokhonko.Decorator.popcorn" />
+      <option name="MAIN_CLASS_NAME" value="com.imokhonko.Decorator.popcorn.PopcornTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="com.imokhonko.Decorator.popcorn in lessong 2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lessong 2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imokhonko.Decorator.popcorn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.imokhonko.Decorator.popcorn" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.MyListTest" />
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="JUnit.PopcornTest" />
+      <item itemvalue="JUnit.com.imokhonko.Decorator.popcorn in lessong 2" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.com.imokhonko.Decorator.popcorn in lessong 2" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="JUnit.PopcornTest" />
+        <item itemvalue="JUnit.MyListTest" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46f56311-a96c-4ae8-89ae-05e0a6cd5edb" name="Default" comment="" />
+      <created>1541147203002</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541147203002</updated>
+      <workItem from="1541147213916" duration="13288000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="MyListTest - 2018.11.02 at 12h 18m 51s.xml">
+      <configuration name="MyListTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PopcornTest - 2018.11.02 at 14h 12m 25s.xml">
+      <configuration name="PopcornTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PopcornTest - 2018.11.02 at 14h 12m 32s.xml">
+      <configuration name="PopcornTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PopcornTest - 2018.11.02 at 14h 13m 10s.xml">
+      <configuration name="PopcornTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PopcornTest - 2018.11.02 at 14h 13m 20s.xml">
+      <configuration name="PopcornTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PopcornTest - 2018.11.02 at 14h 14m 07s.xml">
+      <configuration name="PopcornTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PopcornTest - 2018.11.02 at 14h 15m 06s.xml">
+      <configuration name="PopcornTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PopcornTest - 2018.11.02 at 14h 17m 40s.xml">
+      <configuration name="PopcornTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="com_imokhonko_Decorator_popcorn_in_lessong_2 - 2018.11.02 at 14h 56m 48s.xml">
+      <configuration name="com.imokhonko.Decorator.popcorn in lessong 2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="com_imokhonko_Decorator_popcorn_in_lessong_2 - 2018.11.02 at 15h 08m 42s.xml">
+      <configuration name="com.imokhonko.Decorator.popcorn in lessong 2" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="13288000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info id="Capture Tool" />
+      <window_info id="Designer" />
+      <window_info anchor="right" id="Database" />
+      <window_info id="Structure" order="1" sideWeight="0.5012285" side_tool="true" weight="0.24962178" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
+      <window_info id="UI Designer" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.32838285" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info id="Image Layers" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.46534654" />
+      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.32980332" />
+      <window_info anchor="bottom" id="CheckStyle" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4987715" visible="true" weight="0.22844176" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32838285" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/imokhonko/Builder/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/imokhonko/Builder/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="462" column="29" selection-start-line="462" selection-start-column="29" selection-end-line="462" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/imokhonko/Iterator/MyListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="47" column="17" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+            <element signature="e#294#295#0" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
+            <element signature="e#362#363#0" expanded="true" />
+            <element signature="e#2082#2083#0" expanded="true" />
+            <element signature="e#2152#2153#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/imokhonko/Iterator/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" lean-forward="true" selection-start-column="25" selection-end-column="25" />
+          <folding>
+            <element signature="e#170#178#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/imokhonko/Iterator/MyList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="28" column="28" lean-forward="true" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+          <folding>
+            <element signature="e#191#192#0" expanded="true" />
+            <element signature="e#234#235#0" expanded="true" />
+            <element signature="e#179#180#0" expanded="true" />
+            <element signature="e#201#202#0" expanded="true" />
+            <element signature="e#696#697#0" expanded="true" />
+            <element signature="e#734#735#0" expanded="true" />
+            <element signature="e#399#400#0" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+            <element signature="e#833#834#0" expanded="true" />
+            <element signature="e#860#861#0" expanded="true" />
+            <element signature="e#477#478#0" expanded="true" />
+            <element signature="e#509#510#0" expanded="true" />
+            <element signature="e#1149#1150#0" expanded="true" />
+            <element signature="e#1203#1204#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/imokhonko/Decorator/popcorn/PopcornType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/imokhonko/Decorator/popcorn/popcornCondiments/Salt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/imokhonko/Decorator/popcorn/ExtraordinaryPopcorn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+          <folding>
+            <element signature="e#171#172#0" expanded="true" />
+            <element signature="e#198#199#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.imokhonko.Decorator.popcorn.popcornCondiments">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.imokhonko.Decorator.popcorn.popcornCondiments</OriginalElement>
+          <nodes>
+            <node x="193.0" y="79.0">com.imokhonko.Decorator.popcorn.popcornCondiments.Chocolate</node>
+            <node x="87.0" y="79.0">com.imokhonko.Decorator.popcorn.popcornCondiments.Cheese</node>
+            <node x="0.0" y="79.0">com.imokhonko.Decorator.popcorn.popcornCondiments.Salt</node>
+            <node x="53.5" y="0.0">com.imokhonko.Decorator.popcorn.popcornCondiments.PopcornСondiment</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.imokhonko.Decorator.popcorn.popcornCondiments.Chocolate" target="com.imokhonko.Decorator.popcorn.popcornCondiments.PopcornСondiment">
+              <point x="0.0" y="-14.5" />
+              <point x="244.0" y="54.0" />
+              <point x="181.0" y="54.0" />
+              <point x="51.0" y="14.5" />
+            </edge>
+            <edge source="com.imokhonko.Decorator.popcorn.popcornCondiments.Salt" target="com.imokhonko.Decorator.popcorn.popcornCondiments.PopcornСondiment">
+              <point x="0.0" y="-14.5" />
+              <point x="33.5" y="54.0" />
+              <point x="79.0" y="54.0" />
+              <point x="-51.0" y="14.5" />
+            </edge>
+            <edge source="com.imokhonko.Decorator.popcorn.popcornCondiments.Cheese" target="com.imokhonko.Decorator.popcorn.popcornCondiments.PopcornСondiment">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-122.5" y="17.0" />
+          <SelectedNodes>
+            <node>com.imokhonko.Decorator.popcorn.popcornCondiments.PopcornСondiment</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.imokhonko.Decorator.popcorn">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.imokhonko.Decorator.popcorn</OriginalElement>
+          <nodes>
+            <node x="" y="">com.imokhonko.Decorator.popcorn.Popcorn</node>
+            <node x="" y="">com.imokhonko.Decorator.popcorn.popcornCondiments.Chocolate</node>
+            <node x="" y="">com.imokhonko.Decorator.popcorn.ClassicPopcorn</node>
+            <node x="" y="">com.imokhonko.Decorator.popcorn.popcornCondiments.Cheese</node>
+            <node x="" y="">com.imokhonko.Decorator.popcorn.popcornCondiments.Salt</node>
+            <node x="" y="">com.imokhonko.Decorator.popcorn.popcornCondiments.PopcornСondiment</node>
+            <node x="" y="">com.imokhonko.Decorator.popcorn.Size</node>
+            <node x="" y="">com.imokhonko.Decorator.popcorn.ExtraordinaryPopcorn</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="260.0" y="91.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/imokhonko/Decorator/popcorn/Size.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="11" lean-forward="true" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/imokhonko/Decorator/popcorn/ClassicPopcorn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+          <folding>
+            <element signature="e#158#159#0" expanded="true" />
+            <element signature="e#185#186#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/imokhonko/Decorator/popcorn/popcornCondiments/Cheese.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#299#300#0" expanded="true" />
+            <element signature="e#331#332#0" expanded="true" />
+            <element signature="e#382#383#0" expanded="true" />
+            <element signature="e#420#421#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/imokhonko/Decorator/popcorn/PopcornTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="28" column="12" lean-forward="true" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/imokhonko/Decorator/popcorn/popcornCondiments/Chocolate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="26" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#304#305#0" expanded="true" />
+            <element signature="e#336#337#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/imokhonko/Decorator/popcorn/Popcorn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+          <folding>
+            <element signature="e#135#136#0" expanded="true" />
+            <element signature="e#167#168#0" expanded="true" />
+            <element signature="e#196#197#0" expanded="true" />
+            <element signature="e#223#224#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/imokhonko/Decorator/popcorn/popcornCondiments/Items.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="24" column="69" selection-start-line="24" selection-start-column="69" selection-end-line="24" selection-end-column="69" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#380#388#0" expanded="true" />
+            <element signature="e#304#305#0" expanded="true" />
+            <element signature="e#336#337#0" expanded="true" />
+            <element signature="e#551#552#0" expanded="true" />
+            <element signature="e#629#630#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/imokhonko/Decorator/popcorn/popcornCondiments/PopcornСondiment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#545#546#0" expanded="true" />
+            <element signature="e#577#578#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/imokhonko/Decorator/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
